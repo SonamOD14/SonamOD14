@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm  Sonam Gurung</h1>
+<h1 align="center">Hi, I'm  Sonam OD Gurung</h1>
 <h3 align="center">Developer based in Nepal</h3>
 
 <h3 align="left">Connect with me:</h3>
