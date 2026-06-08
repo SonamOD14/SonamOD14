@@ -1,106 +1,113 @@
-<h1 align="center">Hi, I'm Sonam Wangdi Gurung </h1>
-<h3 align="center">Developer based in Nepal </h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=200&section=header&text=Sonam%20Wangdi%20Gurung&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Nepal%20🇳🇵&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Som+Dai+%F0%9F%91%8B;Full+Stack+Developer+from+Nepal;Building+things+for+the+web+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C±)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sonam-wangdi-gurung-67b668349" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40" />
-  </a>
-</p>
+## 🧑‍💻 About Me
+
+```yaml
+name       : Sonam Wangdi Gurung
+alias      : Som Dai
+location   : Kathmandu, Nepal 🇳🇵
+role       : Full Stack Developer
+focus      : Web · Mobile · Backend · DevOps
+available  : Open to opportunities
+```
+
+> *"Code is like humor. When you have to explain it, it's bad."*
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## 🔗 Connect With Me
 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-         alt="android" width="40" height="40"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-         alt="css3" width="40" height="40"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonam%20Wangdi%20Gurung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonam-wangdi-gurung-67b668349)
+[![GitHub](https://img.shields.io/badge/GitHub-@sonam--wangdi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonam-wangdi-gurung)
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-         alt="docker" width="40" height="40"/>
-  </a>
+</div>
 
-  <!-- FIXED EXPRESS.JS ICON -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-         alt="express"
-         width="40"
-         height="40"
-         style="background-color:white; padding:5px; border-radius:6px;" />
-  </a>
+---
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-         alt="figma" width="40" height="40"/>
-  </a>
+## 🛠️ Tech Stack
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         alt="git" width="40" height="40"/>
-  </a>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="html5" width="40" height="40"/>
-  </a>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="java" width="40" height="40"/>
-  </a>
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="javascript" width="40" height="40"/>
-  </a>
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-         alt="mongodb" width="40" height="40"/>
-  </a>
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="mysql" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-         alt="nodejs" width="40" height="40"/>
-  </a>
+## 📊 GitHub Stats
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         alt="postgresql" width="40" height="40"/>
-  </a>
+<div align="center">
 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-         alt="postman" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=sonam-wangdi-gurung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff&border_radius=10" height="180" alt="GitHub Stats"/>
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="python" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonam-wangdi-gurung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=ffffff&border_radius=10" height="180" alt="Top Languages"/>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-         alt="react" width="40" height="40"/>
-  </a>
+</div>
 
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonam-wangdi-gurung&theme=tokyonight&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sonam-wangdi-gurung&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonam-wangdi-gurung&bg_color=0D1117&color=1D9E75&line=1D9E75&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=120&section=footer" width="100%"/>
+
+</div>
