@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=200&section=header&text=Sonam%20Wangdi%20Gurung&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Nepal%20🇳🇵&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=200&section=header&text=Sonam%20Wangdi%20Gurung&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=%20Developer%20%7C%20Nepal%20🇳🇵&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -18,14 +18,13 @@
 
 ```yaml
 name       : Sonam Wangdi Gurung
-alias      : Som Dai
 location   : Kathmandu, Nepal 🇳🇵
-role       : Full Stack Developer
+role       : Developer
 focus      : Web · Mobile · Backend · DevOps
-available  : Open to opportunities
+
 ```
 
-> *"Code is like humor. When you have to explain it, it's bad."*
+Code is like humor. When you have to explain it, it's bad.
 
 ---
 
