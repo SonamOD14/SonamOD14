@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Som+Dai+%F0%9F%91%8B;Full+Stack+Developer+from+Nepal;Building+things+for+the+web+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C±)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sonam+%F0%9F%91%8B;Developer+from+Nepal;Building+things+for+the+web+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C±)](https://git.io/typing-svg)
 
 </div>
 
@@ -94,19 +94,3 @@ Code is like humor. When you have to explain it, it's bad.
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonam-wangdi-gurung&bg_color=0D1117&color=1D9E75&line=1D9E75&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=120&section=footer" width="100%"/>
-
-</div>
