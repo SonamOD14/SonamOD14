@@ -84,13 +84,3 @@ Code is like humor. When you have to explain it, it's bad.
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sonam-wangdi-gurung&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
